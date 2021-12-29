@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Cookie-VGA 1161",
+		"description": "Basic VGA generation 1",
+		"chance": [0.0001, 0.0060],
+		"price": 100,
+		"type": "Basic"
+	},
+	{
+		"name": "Cookie-VGA 1112",
+		"description": "Basic VGA generation 2",
+		"chance": [0.0005, 0.0100],
+		"price": 250,
+		"type": "Basic"
+	}
+]
